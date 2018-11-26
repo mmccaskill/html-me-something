@@ -1,0 +1,63 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    height: 370px;
+    width: 70%;
+    border: .1rem solid blue;
+    align-content: center;
+  }
+  h2 {
+      text-align: center
+  }
+  
+  p {
+    text-align: justify
+    font-family: Verdana;
+    font-weight: italic bolder;
+    font-size: 19px;
+  }
+figcaption {
+    text-align: center
+}
+  nav ul li {
+      margin-left: 150mm
+      
+  }
+  #heading {
+    text-align: center;
+    text-shadow: .1rem .1rem #00d9ff;
+    border: blue;
+    font-family: Verdana;
+    font-size: 45px;
+    font-style: italic;
+    background-color: #3d00e6;
+  }
+  
+  
+  /* remove default underline */
+  a:link {
+    text-decoration: none;
+    font-display: black; 
+  }
+  
+  a:visited {
+    text-decoration: none;
+  }
+  
+  /* mouse over link */
+  a:hover {
+      color: blue;
+  }
+  
+  footer {
+    text-align: center;
+    font-family: Courier;
+    font-size: 14px;
+    background-color: blue;
+  }
+  
